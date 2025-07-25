@@ -1,0 +1,3 @@
+config SHIELD_PROMICRONRF52840
+    bool "Pro Micro nRF52840 shield"
+    depends on BOARD_ADAFRUIT_NRF52840_FEATHER
